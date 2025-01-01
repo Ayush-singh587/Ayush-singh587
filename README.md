@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayush-singh587
-- 👀 I’m interested in ..Data Driven 
+- 👀 I’m interested in ..Data Driven, Data analytics, Power BI developer, Data scientist.
 - 🌱 I’m currently learning ...|| Data analytics || Power BI ||
 -    Learning SQL || Python programming||
 - 📫 How to reach me ... rajawatayush27@gmail.com
